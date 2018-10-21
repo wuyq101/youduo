@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "qUfWkFlJqc24xFWAsWxKkyyO+zw=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "742154be9a26e849f02d296073c077e0a7c23828",
+			"revisionTime": "2018-10-07T00:49:37Z"
+		},
+		{
+			"checksumSHA1": "UpwKp6oFSNQbJTwaN3oRD/amXLI=",
+			"path": "github.com/tealeg/xlsx",
+			"revision": "f1917addaa283ecd881e40b48173544d4145ea67",
+			"revisionTime": "2018-09-19T08:39:35Z"
+		}
+	],
+	"rootPath": "github.com/wuyq101/youduo"
+}
